@@ -6,7 +6,7 @@ practise collaborating using Git forks, branches and pull requests.
 ## Recipe
 
 Our team has decided to share the steps required to make a pizza!
-Check them out in [Workplan.md](Workplan.md).
+Check them out in [Workplan.md](workplan.md).
 
 ## Team
 
