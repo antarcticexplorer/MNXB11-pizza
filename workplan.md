@@ -21,4 +21,4 @@ Your dough is now ready for your favourite pizza toppings!
 
 ---
 
-*Recipe provided by ChatGPT from OpenAI.*
+*Recipe for the dough provided by ChatGPT from OpenAI.*
