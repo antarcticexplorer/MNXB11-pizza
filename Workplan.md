@@ -32,3 +32,20 @@ Your dough is now ready for your favourite pizza toppings!
 - 100g tomato sauce
 - 120g mozzarella
 - Basil leaves
+
+## Preparation and Cooking
+
+### Preparation
+
+1. Prepare the pizza dough following the recipe above.
+2. Let the dough rest and rise.
+3. Divide the dough into two portions.
+4. Shape each portion into a pizza base.
+5. Add tomato sauce, mozzarella and basil.
+
+### Cooking
+
+1. Preheat the oven.
+2. Place the pizza on a baking tray.
+3. Bake until the dough is cooked and the cheese is melted.
+4. Remove the pizza from the oven and let it cool before serving
